@@ -1,4 +1,4 @@
-# Passo 2: Camada de Dados - Consumindo a API
+# Camada de Dados - Consumindo a API
 
 ## Objetivo
 
