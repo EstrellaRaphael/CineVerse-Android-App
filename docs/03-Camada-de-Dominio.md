@@ -1,4 +1,4 @@
-# Passo 3: Camada de Domínio - O Coração da Aplicação
+# Camada de Domínio - O Coração da Aplicação
 
 ## Objetivo
 
