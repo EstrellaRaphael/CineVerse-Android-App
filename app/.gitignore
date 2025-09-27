@@ -1,0 +1,24 @@
+# Arquivos gerados pelo Gradle
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+build/
+.gradle/
+captures/
+.DS_Store
+
+# Arquivos de IDE
+*.iml
+.idea/
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+local.properties
+
+# Arquivos de log e temporários
+*.log
