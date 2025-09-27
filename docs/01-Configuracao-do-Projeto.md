@@ -1,4 +1,4 @@
-# Passo 1: Configuração do Projeto e Arquitetura
+# Configuração do Projeto e Arquitetura
 
 ## Objetivo
 
